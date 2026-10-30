@@ -1,0 +1,16 @@
+{
+    "name": "com.grimbarinteractive.unity-dev-console",
+    "displayName": "Unity Dev Console",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Dev console for Unity.",
+    "keywords": [ "dev","console", "terminal", "command", "unity" ],
+    "category": "unity",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Grimbar Interactive",
+        "email": "jacob@grimbar.dev",
+        "url": "https://grimbarinteractive.com/"
+    }
+}
